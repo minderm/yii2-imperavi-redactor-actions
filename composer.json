@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii\\imperavi\\actions": "actions"
+            "yii\\imperavi\\actions\\": "actions"
         }
     }
 } 
