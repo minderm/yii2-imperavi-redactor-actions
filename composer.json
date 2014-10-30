@@ -1,0 +1,28 @@
+{
+    "name": "minderm/yii2-imperavi-redactor-actions",
+    "description": "Imperavi Redactor WYSIWYG widget (OEM-licensed for Yii 2)",
+    "keywords": ["yii", "imperavi redactor", "imperavi"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/minderm/yii2-imperavi-redactor-actions/wiki",
+        "forum": "http://www.yiiframework.com/forum/",
+        "wiki": "https://github.com/minderm/yii2-imperavi-redactor-actions/wiki",
+        "irc": "irc://irc.freenode.net/yii",
+        "source": "https://github.com/yiisoft/yii2"
+    },
+    "authors": [
+        {
+            "name": "Nadir Dzhilkibaev",
+            "email": "imam.sharif@gmail.com"
+        }
+    ],
+    "require": {
+        "asofter/yii2-imperavi-redactor": "*",
+    },
+    "autoload": {
+        "psr-4": { 
+		"yii\\imperavi\\actions": "actions",
+	}
+    }
+}
