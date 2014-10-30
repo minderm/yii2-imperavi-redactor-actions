@@ -22,7 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "yii\\imperavi\\actions\\": "actions"
+            "minderm\\redactor\\actions\\": "actions",
+            "minderm\\redactor\\models\\": "models",
+            "minderm\\redactor\\controllers\\": "controllers",
+            "minderm\\redactor\\widgets\\": "widgets",
+            "minderm\\redactor\\assets\\": "assets",
+            "minderm\\redactor\\": ""
         }
     }
 } 
