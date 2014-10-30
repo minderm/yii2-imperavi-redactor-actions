@@ -18,11 +18,11 @@
         }
     ],
     "require": {
-        "asofter/yii2-imperavi-redactor": "*",
+        "asofter/yii2-imperavi-redactor": "*"
     },
     "autoload": {
-        "psr-4": { 
-		"yii\\imperavi\\actions": "actions",
-	}
+        "psr-4": {
+            "yii\\imperavi\\actions": "actions"
+        }
     }
-}
+} 
