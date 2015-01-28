@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "asofter/yii2-imperavi-redactor": "dev-master"
+        "minderm/yii2-imperavi-redactor": "1.0.0"
     },
     "autoload": {
         "psr-4": {
